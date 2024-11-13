@@ -7,7 +7,7 @@
 
 - 👯 Je collabore actuellement avec [Nacim-OR](https://github.com/Nacim-OR)
 
-- 🤝 Je suis actuellement à la recherche [d'opportunités de collaboration](belotflorent.fr)
+- 🤝 Je suis actuellement à la recherche de nouvelles opportunités de collaboration (belotflorent.fr)
 
 - 👨‍💻 Tous mes projets sont disponible ici: [belotflorent.fr](belotflorent.fr)
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/belotflorent.fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="belotflorent.fr" height="30" width="40" /></a>
+<a href="belotflorent.fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="belotflorent.fr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/florentbelot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/florentbelot/" height="30" width="40" /></a>
 </p>
 
